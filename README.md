@@ -1,6 +1,6 @@
 <div align="center">
 
-# Artemios Kousiappas
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1500&color=1F2937&center=true&vCenter=true&width=500&lines=Artemios+Kousiappas" alt="Typing SVG" />
 
 Computer Engineering & Informatics student — building small, finished projects while I study.
 

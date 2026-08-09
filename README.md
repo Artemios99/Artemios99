@@ -1,8 +1,8 @@
-### Hi, I'm Artemios 👋
+<div align="center">
 
-🎓 Computer Engineering & Informatics student
-🛠️ Building small tools, extensions, and side projects while I study
-🌱 Learning by shipping — every project here is something I actually finished
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Artemios+%F0%9F%91%8B;Computer+Engineering+%26+Informatics+Student;Building+small+tools+while+I+study;Learning+by+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -22,9 +22,9 @@
 
 **[Study Blocker](https://github.com/Artemios99/study-blocker)** — Chrome extension that blocks distracting websites during focus sessions, with live timer and focus-time stats. Published on the Chrome Web Store.
 
-**[Portfolio](https://github.com/Artemios99/Portfolio)** · **[Portfolio (React)](https://github.com/Artemios99/Portfolio-react)** — Personal portfolio site, built twice: once with vanilla HTML/CSS, once with React.
+**[Portfolio](https://github.com/Artemios99/Portfolio)** · **[Portfolio (React)](https://github.com/Artemios99/Portfolio-react)** — Personal portfolio site, built twice: vanilla HTML/CSS, then React.
 
-**[portfolio-mobile](https://github.com/Artemios99/portfolio-mobile)** — Mobile app version of my portfolio, built with Expo/React Native.
+**[portfolio-mobile](https://github.com/Artemios99/portfolio-mobile)** — Mobile version of my portfolio, built with Expo/React Native.
 
 **[unibite](https://github.com/Artemios99/unibite)** — JavaScript project.
 
@@ -34,12 +34,30 @@
 
 ### 📊 GitHub stats
 
-![Artemios99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemios99&show_icons=true&theme=default&hide_border=true)
+![Artemios99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemios99&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemios99&layout=compact&hide_border=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artemios99&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemios99&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 📫 Reach me
+### 🏆 Trophies
+
+![trophies](https://github-profile-trophy.vercel.app/?username=Artemios99&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+### 🐍 Contribution snake
+
+![snake gif](https://raw.githubusercontent.com/Artemios99/Artemios99/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
 
 📧 artemios.kousiappas3@gmail.com
+
+![Profile views](https://komarev.com/ghpvc/?username=Artemios99&color=7C3AED&style=flat)
+
+</div>

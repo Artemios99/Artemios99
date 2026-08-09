@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1500&color=1F2937&center=true&vCenter=true&width=500&lines=Artemios+Kousiappas
-  Computer Engineering & Informatics student — building small, finished projects while I study.
-" alt="Typing SVG" />
-
-Computer Engineering & Informatics student — building small, finished projects while I study.
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=1F2937&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Artemios+Kousiappas;Computer+Engineering+%26+Informatics+student;Building+small%2C+finished+projects+while+I+study." alt="Typing SVG" />
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)

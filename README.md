@@ -1,24 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Artemios+%F0%9F%91%8B;Computer+Engineering+%26+Informatics+Student;Building+small+tools+while+I+study;Learning+by+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=%24+whoami;artemios+%E2%80%94+computer+engineering+student;%24+cat+about.txt;building+small+tools+while+I+study;%24+status%3A+online_" alt="Typing SVG" />
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Artemios99&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-### 🧰 Tech I work with
+<br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧰 stack
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 
-### 🚀 Featured projects
+<br/>
+
+### 📁 featured projects
 
 **[Study Blocker](https://github.com/Artemios99/study-blocker)** — Chrome extension that blocks distracting websites during focus sessions, with live timer and focus-time stats. Published on the Chrome Web Store.
 
@@ -30,34 +36,47 @@
 
 **[Patras-Limani](https://github.com/Artemios99/Patras-Limani)** — Java project.
 
----
+<br/>
 
-### 📊 GitHub stats
+### 📊 stats
 
-![Artemios99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemios99&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artemios99&theme=radical&hide_border=true)
+![Artemios99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemios99&show_icons=true&theme=matrix&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemios99&layout=compact&theme=radical&hide_border=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Artemios99&theme=matrix&hide_border=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemios99&layout=compact&theme=matrix&hide_border=true)
 
-### 🏆 Trophies
+</div>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=Artemios99&theme=radical&no-frame=true&row=1&column=6)
+<br/>
 
----
+### 🏆 trophies
 
-### 🐍 Contribution snake
+<div align="center">
+
+![trophies](https://github-profile-trophy.vercel.app/?username=Artemios99&theme=matrix&no-frame=true&row=1&column=6)
+
+</div>
+
+<br/>
+
+### 🐍 activity
+
+<div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/Artemios99/Artemios99/output/github-contribution-grid-snake.svg)
 
----
+</div>
+
+<br/>
 
 <div align="center">
 
 📧 artemios.kousiappas3@gmail.com
 
-![Profile views](https://komarev.com/ghpvc/?username=Artemios99&color=7C3AED&style=flat)
+</div>
 
 </div>
+
